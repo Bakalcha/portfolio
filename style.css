@@ -1,0 +1,53 @@
+
+
+nav {
+		background-color: #efefef;
+	
+}
+nav ul {
+	text-align: center;
+	padding: 8px;
+}
+body{
+	margin: 10px 0;
+}
+nav li {
+	display: inline;
+	background-color: #c6c6c6;
+	padding: 8px 10px;
+	border-radius: 3px;
+	
+}
+nav li :hover{
+	background-color: #dddddd;
+}
+nav a {
+	display: inline;
+	text-decoration: none;
+}
+* {
+	box-sizing: border-box;
+}
+i.fa{
+	font-size: 5em;
+	color: red;
+}
+footer{
+	max-width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+}
+	
+.logo{
+	margin: 0 auto;
+	display: block;
+}
+header{
+	float: left;
+	margin-left: 20px;
+}
+header img{
+	margin: 0 auto;
+	display: block;
+	
+}
